@@ -1,0 +1,101 @@
+Problem1:
+20NG-Decision Tree
+Accuracy: 0.99991161393
+clipper dod sale windows hockey god space car israel gun baseball turkish bike mac graphics nhl window geb rutgers atheists article encryption motif apple orbit controller team waco clinton disease
+20NG-L2Reg
+Accuracy: 0.974633197808
+alt.atheism:
+keith atheism atheists caltech islamic okcforum islam god mathew jaeger livesey rushdie mangoe benedikt religion osrhe umd wingate edu sgi kmr4 bible cobb mantis gregg tek solntze ico atheist wwc 
+comp.graphics:
+graphics image 3d polygon tiff images cview format files 3do pov points animation package vga gif sphere color vesa algorithm surface program 42 looking library file code software quicktime mpeg 
+comp.os.ms-windows.misc:
+windows file ax driver drivers files cica dos win mouse ms ini nt risc win3 fonts ftp printer font access microsoft bmp using program card manager diamond deskjet norton tw 
+comp.sys.ibm.pc.hardware:
+drive card scsi pc ide bus gateway controller monitor 486 port bios vlb motherboard isa disk floppy thanks help irq eisa monitors dos ibm board drives boot memory cpu zeos 
+comp.sys.mac.hardware:
+mac apple quadra duo centris powerbook se lc monitor lciii iisi simms modem c650 bmug adb drive simm 610 vram upgrade nubus macintosh clock internal macs ram problem fpu thanks 
+comp.windows.x:
+window motif server widget mit x11r5 xterm lcs xlib application expo xpert display sun code x11 running widgets color lib r5 imake clients enterpoop xdm colormap internet visual program openwindows 
+misc.forsale:
+sale shipping offer forsale 00 sell condition asking interested price wanted distribution mail email trade new excellent games offers obo includes brand purdue ohio selling 25 cd hiram modem stereo 
+rec.autos:
+car cars engine oil dealer ford toyota automotive auto callison eliot honda com wagon autos warning boyle dumbest unisql vw saturn centerline driving road convertible hp sho qazi integra truck 
+rec.motorcycles:
+bike dod bikes motorcycle bmw ride riding helmet motorcycles rider dog com ranck honda ama bnr harley moa howland infante sun stafford behanna yamaha ed winona shaft ducati east speedy 
+rec.sport.baseball:
+baseball phillies year cubs players braves runs pitching edu sox ball game team alomar hit mets jewish games hitter stadium tigers fan season yankees win jays bob giants pitcher uniforms 
+rec.sport.hockey:
+hockey nhl team game ca play playoff leafs season cup players pens espn playoffs detroit wings pittsburgh rangers teams devils flyers ice penguins coach toronto hawks games montreal islanders abc 
+sci.crypt:
+clipper key encryption chip nsa pgp keys security gtoal crypto tapped government code des cryptography secret escrow qualcomm encrypted eff privacy netcom na tempest wiretap algorithm com intercon clinton public 
+sci.electronics:
+circuit electronics power voltage radar tv audio amp ground radio detector ee cooling motorola line circuits 8051 current phone use output babb wire hp uv design receiver low adcom scope 
+sci.med:
+msg doctor pitt disease medical geb banks gordon pain treatment dyer cancer food health medicine patients science photography foods diet med information syndrome zisfein symptoms eye yeast effects krillean blood 
+sci.space:
+space moon nasa orbit launch henry alaska digex pat shuttle sci lunar spacecraft earth access dc prb flight aurora rockets solar zoo ti sky dietz dseg nsmca higgins mccall nicho 
+soc.religion.christian:
+god church rutgers christians christ athos christian christianity clh jesus hell bible faith 1993 catholic sin apr petch geneva easter scripture resurrection fisher married heaven authority truth book sabbath question 
+talk.politics.guns:
+gun guns fbi waco weapons atf batf firearms stratus feustel nra handgun militia weapon rights government ranch amendment com cdt firearm handheld survivors ifas law gnv dividian colorado hunting roby 
+talk.politics.mideast:
+israel israeli turkish jews armenians armenian armenia serdar turkey arab argic mcgill jake soldiers jewish cpr cosmo turks holocaust arabs angmar fourd adl iran policy columbia greek adam zionism peace 
+talk.politics.misc:
+clinton kaldis cramer tax optilink drugs gay president government br jobs clayton health isc state sexual ipser people hallam drieux trial writes broward phil states com insurance deficit men bush 
+talk.religion.misc:
+christian sandvik morality koresh jesus objective hudson god biblical brian order weiss buffalo frank rosicrucian tyre kent mormons ch981 mitre amdahl beast mr jim joslin alicea thyagi religion tony abortion 
+
+MINST-Decision Tree
+Accuracy: 0.8782
+MINST-L2Reg
+Accuracy: 0.9176
+
+Spambase-Decision Tree
+Accuracy: 0.999347967833
+$ remove ! hp capital_run_length_total free capital_run_length_longest edu you capital_run_length_average george money our your 1999 internet ( mail email over business re 650 000 ; will font receive make all 
+Spambase-L2Reg
+Accuracy: 0.93218865464
+$ 000 remove # free credit addresses business technology over 3d order internet our money ! 650 font your report all email mail you capital_run_length_longest 1999 capital_run_length_total capital_run_length_average 857 415 
+
+Problem2:
+MINST:
+D5
+L2Reg Accuracy: 0.6525
+Decision Tree Accuracy: 0.6693
+D20
+L2Reg Accuracy: 0.8681
+Decision Tree Accuracy: 0.8499
+Spambase:
+D5
+L2Reg Accuracy: 0.795261899587
+Decision Tree Accuracy: 0.999347967833
+D20
+L2Reg Accuracy: 0.905020647685
+Decision Tree Accuracy: 0.999347967833
+
+Problem3:
+D5:
+Accuracy: 0.6756
+D20:
+Accuracy: 0.8456
+
+Problem4:
+"chi2" 20NG
+Accuracy: 0.675004419304
+"mutual information" 20NG
+Accuracy: 0.413436006373
+
+Problem5:
+"L1 regularization" 20NG
+Accuracy: 0.991085641515
+
+Problem6:
+[[-3443.  -767.  5552. ... -3073.  4040. -4964.]
+ [ 2837. -6924.  -522. ... -4913.  1693.  1908.]
+ [  835. -2435.  1873. ...  -144.  -226. -4177.]
+ ...
+ [ 1015. -9499. 11485. ... -7999. -3892. -4181.]
+ [ 3639. -4898. 11306. ... -5204. -1644. -2543.]
+ [ 6912. -5745.    40. ... -9587. -1063.  3751.]]
+Accuracy: 0.8897
+

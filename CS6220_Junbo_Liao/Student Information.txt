@@ -1,0 +1,17 @@
+Name:
+Junbo Liao
+
+e-mail address:
+liao.j@husky.neu.edu
+
+LEVEL:
+Undergrad[  ]    MS[ y ]      PhD[  ]  Other:
+
+DEPT:
+CS[ y ]   IS[  ]   MATH[  ]    ENG[  ]   Other:
+
+CAMPUS:
+BOSTON[ y ]   SEATTLE[  ]    Other:
+
+5 digit ID:
+74123

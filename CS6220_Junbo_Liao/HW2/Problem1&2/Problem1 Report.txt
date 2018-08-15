@@ -1,0 +1,9 @@
+Question A: Prove that E step update on membership achieves the minimum objective given the current centroids
+In E step, we add node to the closest cluster, according to the current centroids, if there is a closer cluster, the node would be added into the closer cluster. Thus, E steps achieves the minimum objective given the current centroids.
+
+Question B: Prove that M step update on centroids achieves the minimum objective given the current memberships
+In M step, we use the mean of features' value as new centroids so that the distance between each node to center is minimum. Thus, according to current membership, the M step will return the minimum objective
+
+
+Question C: Explain why KMeans has to stop (converge), but not necessarily to the global minimum objective value. 
+Because there are two essential keys for kmeans algorithm, initial center and number of cluster, the result is changeable for different K and first centroids. When KMeans stopped, it means that the clusters is converged only if the program begin with certain k and initial centroids rather than the result is the global minimum.

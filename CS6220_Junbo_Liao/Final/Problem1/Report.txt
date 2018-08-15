@@ -1,0 +1,13 @@
+Problem1:
+Part A:
+I tried PCA for decomposition, maybe the only algorithm I known that labels is not necessary. And I tried KMeans, DBSCAN, AgglomerativeClustering and Gaussian Mixture:
+Gaussian performs best : 
+Purity1: 0.7006
+Purity2: 0.4388
+Mean:  	 0.539623099877
+
+Part B:
+I tried SelectKBest and KNN based on 500 selected label( chi2, mutual_info_regression and mutual_info_classif), but they performs bad. Then I tried PCA for decomposition and KNN for clustering, it looks good:
+Purity1: 0.562
+Purity2: 0.5694
+Mean:	 0.565675799894

@@ -1,0 +1,17 @@
+Fashion All Set
+Time: 802.49148798 Seconds
+iteration: 50
+Purity: 0.59263285714285715
+Gini: 0.5569522773970679
+
+MINST All Set
+Time: 1321.09812617 Seconds
+iteration: 84
+Purity: 0.5818857142857143
+Gini: 0.549534122248925
+
+20NG All Set
+Time: 2893.970999956 Seconds
+iteration: 48
+Purity: 0.38071314867876475
+Gini: 0.7332644835575916

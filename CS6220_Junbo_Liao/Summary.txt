@@ -1,0 +1,74 @@
+HW1:
+DATASET: 20NG,MNIST
+TOOLS: Sklearn, Pycharm, Weka
+ALGO: KNN
+Problem1: 
+Problem2: 
+Problem3: 
+Problem4: 
+
+
+HW2A:
+DATASET: 20NG, FASHION, MNIST
+TOOLS: Sklearn, Pycharm
+ALGO: KMeans, Gaussian Mixture
+Problem1: 
+Problem2: KMeans on data 
+Problem3: Gaussian Mixture on toy data
+Problem4: Gaussian Mixture on real data
+
+HW2B:
+DATASET: 20NG,MNIST,SpamBase
+TOOLS: Sklearn, Pycharm
+ALGO: DBSCAN, Hierarchical Clustering
+Problem5: DBSCAN on toy-neighborhood data
+Problem6: DBSCAN on toy raw data
+Problem7: DBSCAN on real data
+Problem8: Hierarchical Clustering
+
+HW3A:
+DATASET: 20NG,MNIST,SpamBase, FASHION
+TOOLS: Sklearn, Pycharm
+ALGO: Supervised Classification, PCA, Pairwise Feature selection, L1 feature selection,HARR features
+Problem1: Supervised Classification
+Problem2: PCA library on MNIST
+Problem3: Implement PCA on MNIST
+Problem4: Pairwise Feature selection for text 
+Problem5: L1 feature selection on text
+Problem6: HARR features for MNIST
+
+HW2A:
+DATASET: 
+TOOLS: 
+ALGO: 
+Problem1: 
+Problem2: 
+Problem3: 
+Problem4: 
+
+HW2A:
+DATASET: 
+TOOLS: 
+ALGO: 
+Problem1: 
+Problem2: 
+Problem3: 
+Problem4: 
+
+HW2A:
+DATASET: 
+TOOLS: 
+ALGO: 
+Problem1: 
+Problem2: 
+Problem3: 
+Problem4: 
+
+HW2A:
+DATASET: 
+TOOLS: 
+ALGO: 
+Problem1: 
+Problem2: 
+Problem3: 
+Problem4: 
